@@ -22,9 +22,8 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## <a name="links">🔗 Links</a>
+## 🔗 Links
 
-- [Hosting](https://snapgram-hp0098v1.vercel.app/sign-in)
 
 ## <a name="introduction">🤖 Introduction</a>
 
