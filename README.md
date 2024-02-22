@@ -22,8 +22,6 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 🔗 Links
-
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -64,6 +62,16 @@ Explore social media with this user-friendly platform that has a nice look and l
 👉 **Backend as a Service (BaaS) - Appwrite**: Utilize Appwrite as a Backend as a Service solution for streamlined backend development, offering features like authentication, database, file storage, and more
 
 and many more, including code architecture and reusability 
+
+## ScreenShots
+![Desktop Screenshot 2024 02 22 - 09 26 36 93](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/c350a37a-736b-4dbd-a52b-50d55b7d7fbf)
+![Desktop Screenshot 2024 02 22 - 09 26 44 61](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/39c6161b-9613-4380-9c39-ddc418cb77cc)
+![Desktop Screenshot 2024 02 22 - 09 26 58 25](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/7bc482b5-428e-4939-bc75-7db60b47a3c6)
+![Desktop Screenshot 2024 02 22 - 09 27 05 74](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/f8cd68bc-b618-46ad-bad3-f33c9c1627c5)
+![Desktop Screenshot 2024 02 22 - 09 27 13 09](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/d525102d-58eb-45c1-8ec3-0085d17f82e2)
+![Desktop Screenshot 2024 02 22 - 09 27 22 14](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/c6e86a77-22bc-4607-8c0b-cb709a8377f1)
+![Desktop Screenshot 2024 02 22 - 09 27 32 50](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/7b4a957a-9088-47e6-8e54-c86380344dd6)
+
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
