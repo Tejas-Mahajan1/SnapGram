@@ -27,6 +27,7 @@
 
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
 
+## <href="https://snap-gram-eta.vercel.app/">🤖 Hosted </a>  
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -71,6 +72,7 @@ and many more, including code architecture and reusability
 ![Desktop Screenshot 2024 02 22 - 09 27 13 09](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/d525102d-58eb-45c1-8ec3-0085d17f82e2)
 ![Desktop Screenshot 2024 02 22 - 09 27 22 14](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/c6e86a77-22bc-4607-8c0b-cb709a8377f1)
 ![Desktop Screenshot 2024 02 22 - 09 27 32 50](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/7b4a957a-9088-47e6-8e54-c86380344dd6)
+![Desktop Screenshot 2024 02 22 - 09 48 06 65](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/6a6e1135-da24-4f66-b139-0caeeccbf4bb)
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
