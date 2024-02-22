@@ -27,7 +27,8 @@
 
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
 
-## <href="https://snap-gram-eta.vercel.app/">🤖 Hosted </a>  
+## 🤖 Hosted 
+<a href="https://snap-gram-eta.vercel.app/">Here</a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
