@@ -24,8 +24,7 @@
 
 ## <a name="links">🔗 Links</a>
 
-Hosted [here](snapgram-hp0098v1.vercel.app
-)
+- [Hosting](https://snapgram-hp0098v1.vercel.app/sign-in)
 
 ## <a name="introduction">🤖 Introduction</a>
 
