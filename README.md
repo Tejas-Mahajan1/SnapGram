@@ -24,7 +24,7 @@
 
 ## <a name="links">🔗 Links</a>
 
-Hosted [here](https://drive.google.com/file/d/13_7FofRAC3wARqPtAVPi53QNJJRd5RH_/view?usp=sharing)
+Hosted [here](snapgram-hp0098v1.vercel.app)
 
 ## <a name="introduction">🤖 Introduction</a>
 
