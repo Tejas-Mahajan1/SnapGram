@@ -217,6 +217,7 @@ export async function getRecentPosts() {
   }
 }
 
+// ============================== Search Post 
 export async function searchPosts(searchTerm: string) {
   try {
     const posts = await databases.listDocuments(
@@ -232,6 +233,8 @@ export async function searchPosts(searchTerm: string) {
     console.log(error);
   }
 }
+
+// ============================== GET POSTS Infinite
 
 export async function getInfintePosts({ pageParam }: { pageParam: number }) {
   const queries = [Query.orderDesc("$updatedAt"), Query.limit(9)];
