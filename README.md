@@ -1,10 +1,9 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/_W3R2VwRyF4?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/social_media_app/assets/151519281/be514a19-3cbb-48b7-9acd-2cf4d2e319c4" alt="Project Banner">
-    </a>
-  <br />
 
+
+  <h3 align="center">A Social Media Application</h3>
+  
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
@@ -12,12 +11,7 @@
     <img src="https://img.shields.io/badge/-React_Query-black?style=for-the-badge&logoColor=white&logo=reactquery&color=FF4154" alt="reactquery" />
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   </div>
-
-  <h3 align="center">A Social Media Application</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -30,21 +24,10 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/_W3R2VwRyF4?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -54,6 +37,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 - TypeScript
 - Shadcn
 - Tailwind CSS
+
+## 🤖 Hosted : <a href="https://snap-gram-eta.vercel.app/">Here</a>
 
 ## <a name="features">🔋 Features</a>
 
@@ -81,6 +66,17 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability 
 
+## ScreenShots
+![Desktop Screenshot 2024 02 22 - 09 26 36 93](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/c350a37a-736b-4dbd-a52b-50d55b7d7fbf)
+![Desktop Screenshot 2024 02 22 - 09 26 44 61](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/39c6161b-9613-4380-9c39-ddc418cb77cc)
+![Desktop Screenshot 2024 02 22 - 09 26 58 25](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/7bc482b5-428e-4939-bc75-7db60b47a3c6)
+![Desktop Screenshot 2024 02 22 - 09 27 05 74](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/f8cd68bc-b618-46ad-bad3-f33c9c1627c5)
+![Desktop Screenshot 2024 02 22 - 09 27 13 09](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/d525102d-58eb-45c1-8ec3-0085d17f82e2)
+![Desktop Screenshot 2024 02 22 - 09 27 22 14](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/c6e86a77-22bc-4607-8c0b-cb709a8377f1)
+![Desktop Screenshot 2024 02 22 - 09 27 32 50](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/7b4a957a-9088-47e6-8e54-c86380344dd6)
+![Desktop Screenshot 2024 02 22 - 09 48 06 65](https://github.com/Tejas-Mahajan1/SnapGram/assets/114793178/6a6e1135-da24-4f66-b139-0caeeccbf4bb)
+
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
@@ -96,8 +92,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/social_media_app.git
-cd social_media_app
+git clone https://github.com/Tejas-Mahajan1/SnapGram.git
+cd snapgram
 ```
 
 **Installation**
@@ -736,29 +732,5 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
 
 </details>
 
-## <a name="links">🔗 Links</a>
 
-Assets used in the project are [here](https://drive.google.com/file/d/13_7FofRAC3wARqPtAVPi53QNJJRd5RH_/view?usp=sharing)
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
