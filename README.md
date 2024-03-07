@@ -1,7 +1,6 @@
 <div align="center">
   <br />
-
-
+  
   <h3 align="center">A Social Media Application</h3>
   
   <div>
